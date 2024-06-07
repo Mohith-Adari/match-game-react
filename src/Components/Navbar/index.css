@@ -1,0 +1,42 @@
+.navbar-container {
+  background-color: #2c0e3a;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  height: 10vh;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  height: 50px;
+}
+
+.score-container {
+  display: flex;
+}
+
+.score {
+  text-align: center;
+  color: #ffffff;
+  margin: 10px;
+}
+
+.timer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.timer-logo {
+  width: 30px;
+  height: 30px;
+}
+
+.timer-count {
+  color: #ffffff;
+}
